@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = njeaneudes@gmail.com
+	name = Jean Eudes Nallatamby
